@@ -22,7 +22,7 @@ Every integration is two headers and JSON over HTTPS. The SDKs save you the requ
 | 🟢 | **Node** | [`cryptunnel`](https://www.npmjs.com/package/cryptunnel) on npm · [cryptunnel-node](https://github.com/cryptunnel/cryptunnel-node) [![npm](https://img.shields.io/npm/v/cryptunnel)](https://www.npmjs.com/package/cryptunnel) |
 | 🐘 | **PHP** | [`cryptunnel/cryptunnel`](https://packagist.org/packages/cryptunnel/cryptunnel) on Packagist · [cryptunnel-php](https://github.com/cryptunnel/cryptunnel-php) [![Packagist](https://img.shields.io/packagist/v/cryptunnel/cryptunnel)](https://packagist.org/packages/cryptunnel/cryptunnel) |
 | 🤖 | **Coding agents** | [MCP server](https://docs.cryptunnel.io/docs/mcp-server): `claude mcp add --transport http cryptunnel https://api.cryptunnel.io/mcp` |
-| ✈️ | **Telegram bots** | [Telegram bot recipe](https://docs.cryptunnel.io/docs/telegram-bot) for telegraf and aiogram; no-code guides for Bot-T, SaleBot and PuzzleBot |
+| ✈️ | **Telegram bots** | [Telegram bot recipe](https://docs.cryptunnel.io/docs/telegram-bot) for telegraf and aiogram |
 | 🧩 | **No code at all** | Payment links and one-off invoices from the cabinet |
 
 ## 🧪 Try it on test networks
